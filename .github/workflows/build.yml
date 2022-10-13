@@ -31,11 +31,11 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: _site # The folder the action should deploy.
-      - name: Release
+      - name: Zip
         run: |
           cd _site
           zip -r ../dataplat2023.zip *
-          ls
+          ls ..
       - name: Release
         run: |
           npm install
