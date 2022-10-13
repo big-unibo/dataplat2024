@@ -6,7 +6,6 @@ on:
       - 'LICENSE'
       - 'README.md'
       - 'renovate.json'
-  pull_request:
   workflow_dispatch:
 
 jobs:
@@ -32,26 +31,10 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: _site # The folder the action should deploy.
-
-  release:
-    needs:
-      - build
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3.1.0
-      - uses: actions/setup-java@v3.5.1
-        with:
-          distribution: 'adopt'
-          java-version: '14'
-      - name: Deploy
+      - name: Release
         run: |
-          chmod +x *.sh
-          ./build.sh
           cd _site
           zip -r ../dataplat2023.zip *
-          cd ..
           ls
       - name: Release
         run: |
