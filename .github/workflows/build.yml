@@ -37,6 +37,7 @@ jobs:
           zip -r ../dataplat2023.zip *
           ls ..
       - name: Release
+        if: github.event_name == 'push'
         run: |
           npm install
           npx semantic-release
