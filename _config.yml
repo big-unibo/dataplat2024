@@ -41,6 +41,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/patrick-marcel-58b42534/
 
+- name: Veronika Peralta
+  pic: VP
+  position: LIFAT – Université de Tours
+  social:
+    - title: university
+      url: https://www.info.univ-tours.fr/~vperalta
+    - title: at
+      url: "mailto:veronika.peralta@univ-tours.fr"
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 #  - title: twitter
