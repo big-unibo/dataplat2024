@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/big-unibo/dataplat2023/compare/1.0.0...1.0.1) (2022-10-13)
+
+
+### Bug Fixes
+
+* **website:** update ([b3b8605](https://github.com/big-unibo/dataplat2023/commit/b3b860546f890b1793629a777da6849af06f9a6e))
+
 ## 1.0.0 (2022-10-13)
 
 
