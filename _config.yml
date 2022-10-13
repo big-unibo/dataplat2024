@@ -1,9 +1,9 @@
-baseurl: /dataplat2022
+baseurl: /dataplat2023
 
 # Site settings
 title: DataPlat
 email: your-email@domain.com
-description: "DataPlat 2022 is the first international workshop on Data Platform Design, Management, and Optimization, co-located with EDBT/ICDT 2022. DataPlat is aimed at funneling research efforts addressing different parts of the data management lifecycle towards the development of data platforms (meant as data-intensive ecosystems supporting data scientists and architects at a high level) and fosters innovative research solutions that contribute to further advancements in this field."
+description: "DataPlat 2023 is the first international workshop on Data Platform Design, Management, and Optimization, co-located with EDBT/ICDT 2023. DataPlat is aimed at funneling research efforts addressing different parts of the data management lifecycle towards the development of data platforms (meant as data-intensive ecosystems supporting data scientists and architects at a high level) and fosters innovative research solutions that contribute to further advancements in this field."
 
 
 # Team names, titles and social links
@@ -55,9 +55,9 @@ social:
 #  - title: twitter
 #    url: 
 - title: facebook
-  url: https://www.facebook.com/sharer/sharer.php?u=big.csr.unibo.it/dataplat2022
+  url: https://www.facebook.com/sharer/sharer.php?u=big.csr.unibo.it/dataplat2023
 - title: linkedin
-  url: https://www.linkedin.com/shareArticle?url=big.csr.unibo.it/dataplat2022
+  url: https://www.linkedin.com/shareArticle?url=big.csr.unibo.it/dataplat2023
 
 # Postal address (add as many lines as necessary)
 address:
