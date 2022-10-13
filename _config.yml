@@ -3,7 +3,7 @@ baseurl: /dataplat2023
 # Site settings
 title: DataPlat
 email: your-email@domain.com
-description: "DataPlat 2023 is the first international workshop on Data Platform Design, Management, and Optimization, co-located with EDBT/ICDT 2023. DataPlat is aimed at funneling research efforts addressing different parts of the data management lifecycle towards the development of data platforms (meant as data-intensive ecosystems supporting data scientists and architects at a high level) and fosters innovative research solutions that contribute to further advancements in this field."
+description: "DataPlat 2023 is an international workshop on Data Platform Design, Management, and Optimization, co-located with EDBT/ICDT 2023. DataPlat is aimed at funneling research efforts addressing different parts of the data management lifecycle towards the development of data platforms (meant as data-intensive ecosystems supporting data scientists and architects at a high level) and fosters innovative research solutions that contribute to further advancements in this field."
 
 
 # Team names, titles and social links
