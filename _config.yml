@@ -1,4 +1,4 @@
-baseurl: /dataplat2023
+baseurl: /dataplat-2023
 
 # Site settings
 title: DataPlat
@@ -40,15 +40,6 @@ people:
       url: "mailto:patrick.marcel@univ-tours.fr"
     - title: linkedin
       url: https://www.linkedin.com/in/patrick-marcel-58b42534/
-
-- name: Stefano Rizzi
-  pic: SR
-  position: DISI - University of Bologna
-  social:
-    - title: university
-      url: https://www.unibo.it/sitoweb/stefano.rizzi/en
-    - title: at
-      url: "mailto:stefano.rizzi@unibo.it"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
