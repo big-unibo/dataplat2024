@@ -1,0 +1,69 @@
+baseurl: /dataplat2022
+
+# Site settings
+title: DataPlat
+email: your-email@domain.com
+description: "DataPlat 2022 is the first international workshop on Data Platform Design, Management, and Optimization, co-located with EDBT/ICDT 2022. DataPlat is aimed at funneling research efforts addressing different parts of the data management lifecycle towards the development of data platforms (meant as data-intensive ecosystems supporting data scientists and architects at a high level) and fosters innovative research solutions that contribute to further advancements in this field."
+
+
+# Team names, titles and social links
+people:
+- name: Matteo Francia
+  pic: MF
+  position: DISI - University of Bologna
+  social:
+    - title: university
+      url: https://www.unibo.it/sitoweb/m.francia/en
+    - title: at
+      url: "mailto:m.francia@unibo.it"
+    - title: linkedin
+      url: https://www.linkedin.com/in/matteo-francia/
+
+- name: Enrico Gallinucci
+  pic: EG
+  position: DISI - University of Bologna
+  social:
+    - title: university
+      url: https://www.unibo.it/sitoweb/enrico.gallinucci/en
+    - title: at
+      url: "mailto:enrico.gallinucci@unibo.it"
+    - title: linkedin
+      url: https://www.linkedin.com/in/enricogallinucci/
+
+- name: Patrick Marcel
+  pic: PM
+  position: LIFAT – Université de Tours
+  social:
+    - title: university
+      url: http://www.info.univ-tours.fr/~marcel/
+    - title: at
+      url: "mailto:patrick.marcel@univ-tours.fr"
+    - title: linkedin
+      url: https://www.linkedin.com/in/patrick-marcel-58b42534/
+
+- name: Stefano Rizzi
+  pic: SR
+  position: DISI - University of Bologna
+  social:
+    - title: university
+      url: https://www.unibo.it/sitoweb/stefano.rizzi/en
+    - title: at
+      url: "mailto:stefano.rizzi@unibo.it"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+#  - title: twitter
+#    url: 
+- title: facebook
+  url: https://www.facebook.com/sharer/sharer.php?u=big.csr.unibo.it/dataplat2022
+- title: linkedin
+  url: https://www.linkedin.com/shareArticle?url=big.csr.unibo.it/dataplat2022
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

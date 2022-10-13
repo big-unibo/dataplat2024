@@ -1,0 +1,51 @@
+li {
+    list-style-type: circle;
+    font-size: 14px;
+    line-height: 1.75;
+}
+
+ul.pcm li, ul.accepted li {
+    list-style-type: none;
+}
+ul.accepted li {
+    font-style: normal;   
+}
+
+div.cfp {
+    text-align: justify;
+}
+
+div.dates p {
+    font-size: 120%;
+}
+
+img.img-logo {
+    max-height: 50px;
+    padding-bottom: 5px;
+    margin-top: -10px;
+    vertical-align: top;
+}
+
+div#head-fgcs {
+    /*font-size: 20px;*/
+}
+
+#table-program {
+    font-style: normal;
+    margin-top: 50px;
+}
+#table-program .thead-light {
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+#table-program th {
+    text-align: center !important;
+}
+#table-program th.col1 {
+    width: 10%;
+}
+#table-program th.col23 {
+    width: 45%;
+}
