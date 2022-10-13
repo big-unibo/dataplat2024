@@ -19,7 +19,7 @@ jobs:
           chmod +x *.sh
           ./build.sh
           cd _site
-          zip -r ../dataplat-2023.zip *
+          zip -r ../dataplat2023.zip *
           cd ..
           ls
       - name: Deploy
