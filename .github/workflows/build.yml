@@ -34,7 +34,7 @@ jobs:
       - name: Zip
         run: |
           cd _site
-          zip -r ../dataplat2023.zip *
+          zip -r ../dataplat2024.zip *
           ls ..
       - name: Release
         if: github.event_name == 'push'
