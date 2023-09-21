@@ -41,14 +41,14 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/patrick-marcel-58b42534/
 
-- name: Veronika Peralta
-  pic: VP
-  position: LIFAT - Université de Tours
+- name: Stefanie Scherzinger
+  pic: SS
+  position: University of Passau
   social:
     - title: university
-      url: https://www.info.univ-tours.fr/~vperalta
+      url: https://www.fim.uni-passau.de/en/database-systems
     - title: at
-      url: "mailto:veronika.peralta@univ-tours.fr"
+      url: "mailto:Stefanie.Scherzinger@uni-passau.de"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
