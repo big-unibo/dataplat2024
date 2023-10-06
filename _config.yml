@@ -32,12 +32,12 @@ people:
 
 - name: Patrick Marcel
   pic: PM
-  position: LIFAT - Université de Tours
+  position: University of Orléans
   social:
     - title: university
       url: http://www.info.univ-tours.fr/~marcel/
     - title: at
-      url: "mailto:patrick.marcel@univ-tours.fr"
+      url: "mailto:patrick.marcel@univ-orleans.fr"
     - title: linkedin
       url: https://www.linkedin.com/in/patrick-marcel-58b42534/
 
