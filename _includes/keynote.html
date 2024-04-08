@@ -4,7 +4,7 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Keynote speaker</h2>
                 <div class="row">
-                    <div class="col-sm-8">
+                    <div class="col-sm-12">
                         {% for member in site.keynote %}
                         <div class="team-member">
                             <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -17,8 +17,7 @@
                 </div>
                 <h3 class="section-subheading text-muted">The Quest for Data Profiling</h3>
                 <div class="row">
-                    <div class="col-sm-8"></div>
-                    <div class="col-sm-8">
+                    <div class="col-sm-12">
                         <p class="text-muted">
                             Data profiling comprises a broad range of methods to efficiently analyze a given dataset. In a typical scenario, which mirrors the capabilities of commercial data profiling tools, tables of a relational database are scanned to derive metadata, such as data types and value patterns, completeness and uniqueness of columns, keys and foreign keys, and various data dependencies. The talk highlights the key insights behind recent state of the art methods and presents various use cases in the areas of data cleaning and data integration: violations of dependencies point to errors in the data; key discovery identifies the core entities of a data source; inclusion dependencies are candidates to join up multiple sources; and in general, data profiling results can be used to organize data lakes.
                         </p>
